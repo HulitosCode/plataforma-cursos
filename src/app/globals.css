@@ -26,5 +26,5 @@ body {
 }
 
 a {
-  @apply hover:underline
+  @apply hover:underline;
 }
